@@ -77,7 +77,8 @@ This creates a circular gradient where colors transition around a center point.
   ```
 
 ## Example Output:
-![Gradient Example](Screenshot%202025-02-17%20090728.png)
+![Screenshot 2025-02-19 095611](https://github.com/user-attachments/assets/d63bc380-19c6-433c-9f55-5f857f4cc233)
+![maxresdefault](https://github.com/user-attachments/assets/23ed947c-cd4d-481f-a467-b9062230e122)
 
 ---
 
